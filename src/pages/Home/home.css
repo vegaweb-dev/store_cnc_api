@@ -1,0 +1,15 @@
+.home {
+    padding: 50px 0;
+  }
+  
+  .home__title {
+    margin-bottom: 25px;
+  }
+  
+  .home__cards-container {
+    display: flex;
+    grid-gap: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  

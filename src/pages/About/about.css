@@ -1,0 +1,26 @@
+.about {
+    padding: 27px 0;
+    text-align: center;
+  }
+  
+  .about__image {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    box-shadow: 0 3px 15px black;
+  }
+  
+  .about__title {
+    margin: 27px 0 7px;
+  }
+  
+  .about__subtitle {
+    margin-bottom: 20px;
+  }
+  
+  .about__description {
+    text-align: justify;
+    max-width: 580px;
+    margin: auto;
+  }
+  
